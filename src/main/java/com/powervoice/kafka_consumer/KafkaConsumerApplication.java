@@ -1,4 +1,4 @@
-package com.powervoice.sv.ssg.kafka_consumer;
+package com.powervoice.kafka_consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
